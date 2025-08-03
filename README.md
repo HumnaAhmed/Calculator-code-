@@ -13,3 +13,4 @@ A simple calculator project in Python with both CLI and GUI versions.
   - User-friendly interface
   - Light mode and dark mode support
 
+🛡️ Note: Please feel free to fork the project. Pull requests are welcome, but I prefer keeping the original code as-is. Suggestions via issues are appreciated!
