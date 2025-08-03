@@ -9,7 +9,7 @@ A simple calculator project in Python with both CLI and GUI versions.
   - Easy to run in terminal
 
 - **GUI Version**:
-  - Built using Tkinter
+  - Built using CustomTkinter
   - User-friendly interface
   - Light mode and dark mode support
 
