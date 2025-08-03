@@ -7,12 +7,14 @@ A simple calculator project in Python with both CLI and GUI versions.
 - **CLI Version** (Command Line):
   - Supports basic operations: add, subtract, multiply, divide
   - Easy to run in terminal
+  - Code: [`cli_cal.py`](cli_cal.py)
 
 - **GUI Version**:
   - Built using CustomTkinter
   - User-friendly interface
   - Light mode and dark mode support
-    
+  - Code: [`gui_cal.py`](gui_cal.py)
+
 ## 🖼️ Screenshots
 
 ### GUI Output:
